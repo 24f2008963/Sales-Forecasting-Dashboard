@@ -1,28 +1,17 @@
 # 📈 Sales Forecasting Dashboard
 
-An interactive Streamlit dashboard developed for the XYlofy AI Internship.
+## Live Demo
+
+https://YOUR-APP.streamlit.app
+
+## GitHub Repository
+
+https://github.com/24f2008963/Sales-Forecasting-Dashboard
 
 ## Features
 
-- Sales Overview Dashboard
-- Forecast Explorer
+- Sales Dashboard
+- Forecasting using SARIMA, Prophet and XGBoost
 - Anomaly Detection
 - Product Demand Segmentation
-
-## Technologies Used
-
-- Python
-- Streamlit
-- Pandas
-- Plotly
-- Scikit-Learn
-- Prophet
-- XGBoost
-- Statsmodels
-
-## Run Locally
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
+- Interactive Streamlit Dashboard
